@@ -36,7 +36,7 @@ Hi-Fi-Pi №2, DAC 2.1 останется в производстве как м�
 
 <h2>Разъемы и управление</h2>
 
-<p><a class="galery" href="https://static.chipdip.ru/lib/281/DOC006281662.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/281/DOC006281663.jpg" /></a></p>
+<p><a class="galery" href="https://static.chipdip.ru/lib/281/DOC006281695.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/281/DOC006281695.jpg" /></a></p>
 
 <h2>Комплектация</h2>
 
